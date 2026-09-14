@@ -42,13 +42,25 @@ The second task involved analyzing employee compensation data to help identify p
 
 ### What I Did
 
-Using Excel, I classified numerical equality scores into categories to make the results easier to interpret and support further investigation.
+Using Excel, I analyzed the provided equality scores and created a new **Equality Class** column. I used a nested `IF` formula with the `ABS` function to automatically classify each score based on its distance from zero.
 
 The classifications included:
 
-- Fair
-- Unfair
-- Highly Discriminative
+- **Fair:** scores between -10 and 10
+- **Unfair:** scores between -20 and -11 or 11 and 20
+- **Highly Discriminative:** scores below -20 or above 20
+
+### Excel Formula
+
+`=IF(ABS(C2)<=10,"Fair",IF(ABS(C2)<=20,"Unfair","Highly Discriminative"))`
+
+### Before Classification
+
+![Pay Equality Data Before Classification](pay-equality-before.png)
+
+### After Classification
+
+![Pay Equality Data After Classification](pay-equality-after.png)
 
 ## Skills Demonstrated
 
@@ -58,5 +70,6 @@ The classifications included:
 - Microsoft Excel
 - Dashboard Development
 - Calculated Fields
+- Excel IF Functions
 - Data Classification
 - Business Problem Solving
