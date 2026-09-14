@@ -73,3 +73,7 @@ The classifications included:
 - Excel IF Functions
 - Data Classification
 - Business Problem Solving
+
+## Certificate
+
+[View Deloitte Australia Data Analytics Job Simulation Certificate](deloitte-data-analytics-certificate.pdf)
