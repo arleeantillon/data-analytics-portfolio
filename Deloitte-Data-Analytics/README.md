@@ -30,6 +30,10 @@ I combined the visualizations into an interactive dashboard that allowed the fac
 
 The analysis showed that **Daikibo Factory Seiko** experienced the most downtime. After filtering the dashboard to that factory, **LaserWelder** showed the highest downtime among the device types.
 
+### Tableau Dashboard
+
+![Deloitte Manufacturing Downtime Dashboard](deloitte-tableau-dashboard.png)
+
 ## Task 2: Pay Equality Analysis
 
 ### Business Question
