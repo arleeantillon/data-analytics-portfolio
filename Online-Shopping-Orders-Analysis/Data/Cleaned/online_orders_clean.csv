@@ -1,0 +1,321 @@
+Order ID,Order Date,Product,Category,Quantity,Unit Price,Customer State,Payment Method,Order Status
+ORD-3177,7/18/2026,Gym Towel,Fitness,1,,TX,Debit Card,Delivered
+ORD-3161,2/6/2026,Laptop Sleeve,Office,1,,GA,Credit Card,Delivered
+ORD-3218,7/10/2026,Sticky Note Set,Office,1,7.99,OH,Debit Card,Shipped
+ORD-3187,6/14/2026,Sticky Note Set,Office,1,7.99,VA,Credit Card,Delivered
+ORD-3136,6/11/2026,Sticky Note Set,Office,1,7.99,CA,PayPal,Delivered
+ORD-3132,3/29/2026,Sticky Note Set,Office,1,7.99,NY,Debit Card,Delivered
+ORD-3269,1/12/2026,Sticky Note Set,Office,1,7.99,FL,Debit Card,Delivered
+ORD-3074,1/8/2026,Sticky Note Set,Home,1,7.99,NC,Credit Card,Delivered
+ORD-3283,1/6/2026,Sticky Note Set,Office,1,7.99,PA,Debit Card,Delivered
+ORD-3184,8/29/2026,Sticky Note Set,Office,2,7.99,NJ,PayPal,Delivered
+ORD-3001,7/21/2026,Sticky Note Set,Office,2,7.99,IL,PayPal,Cancelled
+ORD-3157,4/13/2026,Sticky Note Set,Office,2,7.99,PA,Apple Pay,Cancelled
+ORD-3099,8/1/2026,Sticky Note Set,Office,3,7.99,CA,Debit Card,Cancelled
+ORD-3201,4/8/2026,Sticky Note Set,Office,3,7.99,NY,Debit Card,Shipped
+ORD-3053,3/2/2026,Sticky Note Set,Office,3,7.99,NJ,Credit Card,Delivered
+ORD-3192,8/8/2026,Gel Pen Pack,Fitness,1,8.99,FL,Credit Card,Delivered
+ORD-3196,5/24/2026,Gel Pen Pack,Office,1,8.99,TX,PayPal,Shipped
+ORD-3140,4/23/2026,Gel Pen Pack,Office,1,8.99,TX,PayPal,Delivered
+ORD-3190,1/24/2026,Laptop Sleeve,Office,1,8.99,OH,Credit Card,Returned
+ORD-3194,1/13/2026,Throw Pillow,Home,1,8.99,OH,Apple Pay,Delivered
+ORD-3288,,Gel Pen Pack,Office,1,8.99,TX,PayPal,Delivered
+ORD-3050,6/24/2026,USB-C Cable,Office,2,8.99,CA,Debit Card,Shipped
+ORD-3104,4/14/2026,Gel Pen Pack,Office,2,8.99,NJ,PayPal,Shipped
+ORD-3219,4/5/2026,Gel Pen Pack,Office,2,8.99,TX,Debit Card,Delivered
+ORD-3303,3/2/2026,Gel Pen Pack,Office,2,8.99,TX,Debit Card,Delivered
+ORD-3248,5/11/2026,Gel Pen Pack,Office,3,8.99,NY,Credit Card,Delivered
+ORD-3311,3/5/2026,Gel Pen Pack,Office,,8.99,VA,PayPal,Delivered
+ORD-3222,5/10/2026,Gel Pen Pack,Office,,8.99,OH,PayPal,Delivered
+ORD-3191,8/28/2026,Gym Towel,Fitness,1,9.50,VA,Debit Card,Delivered
+ORD-3236,7/29/2026,Gym Towel,Fitness,1,9.50,VA,Credit Card,Delivered
+ORD-3037,3/6/2026,Gym Towel,Fitness,1,9.50,CA,Debit Card,Delivered
+ORD-3176,3/1/2026,Gym Towel,Fitness,1,9.50,OH,PayPal,Delivered
+ORD-3228,2/19/2026,Gym Towel,Fitness,1,9.50,VA,Credit Card,Processing
+ORD-3015,2/17/2026,Gym Towel,Electronics,1,9.50,VA,Debit Card,Delivered
+ORD-3029,1/3/2026,Gym Towel,Fitness,2,9.50,OH,Credit Card,Shipped
+ORD-3023,3/24/2026,Gym Towel,Fitness,3,9.50,VA,Debit Card,Shipped
+ORD-3206,3/2/2026,Gym Towel,Fitness,3,9.50,PA,Debit Card,Delivered
+ORD-3256,,Gym Towel,Fitness,3,9.50,IL,Credit Card,Shipped
+ORD-3210,3/10/2026,Gym Towel,Fitness,4,9.50,IL,Debit Card,Processing
+ORD-3168,6/12/2026,Gym Towel,Fitness,20,9.50,NY,PayPal,Delivered
+ORD-3073,8/7/2026,,Office,1,11.25,CA,Credit Card,Cancelled
+ORD-3156,6/14/2026,Notebook Set,Office,1,11.25,GA,Apple Pay,Delivered
+ORD-3246,5/9/2026,Notebook Set,Office,1,11.25,TX,Apple Pay,Delivered
+ORD-3038,2/18/2026,Notebook Set,Office,1,11.25,TX,Apple Pay,Delivered
+ORD-3059,8/14/2026,Notebook Set,Office,2,11.25,NC,PayPal,Shipped
+ORD-3108,7/1/2026,USB-C Cable,Electronics,1,12.99,IL,Credit Card,Delivered
+ORD-3032,6/29/2026,USB-C Cable,Electronics,1,12.99,NJ,PayPal,Delivered
+ORD-3143,5/24/2026,USB-C Cable,Electronics,1,12.99,MA,Apple Pay,Delivered
+ORD-3314,4/8/2026,USB-C Cable,Electronics,1,12.99,NY,PayPal,Delivered
+ORD-3067,2/10/2026,USB-C Cable,Electronics,1,12.99,NY,Debit Card,Delivered
+ORD-3022,2/4/2026,USB-C Cable,Electronics,1,12.99,NY,Debit Card,Delivered
+ORD-3019,1/24/2026,Wireless Mouse,Electronics,1,12.99,GA,PayPal,Processing
+ORD-3138,8/6/2026,USB-C Cable,Electronics,2,12.99,NJ,Debit Card,Shipped
+ORD-3289,7/16/2026,USB-C Cable,Electronics,2,12.99,CA,Credit Card,Cancelled
+ORD-3202,4/4/2026,USB-C Cable,Electronics,2,12.99,NJ,Credit Card,Returned
+ORD-3181,3/29/2026,USB-C Cable,Electronics,2,12.99,VA,PayPal,Returned
+ORD-3035,2/12/2026,Wireless Mouse,Electronics,2,12.99,FL,Apple Pay,Processing
+ORD-3030,1/5/2026,Tote Bag,Accessories,3,12.99,OH,Apple Pay,Delivered
+ORD-3128,7/31/2026,USB-C Cable,Electronics,4,12.99,NC,Credit Card,Returned
+ORD-3130,2/17/2026,USB-C Cable,Electronics,4,12.99,IL,Apple Pay,Delivered
+ORD-3233,8/6/2026,Travel Pouch,Accessories,1,13.75,TX,Apple Pay,Cancelled
+ORD-3169,5/8/2026,Travel Pouch,Accessories,1,13.75,FL,Debit Card,Shipped
+ORD-3118,4/14/2026,Travel Pouch,Accessories,1,13.75,GA,PayPal,Processing
+ORD-3242,7/28/2026,T-Shirt,Accessories,2,13.75,FL,Apple Pay,Delivered
+ORD-3209,6/3/2026,Travel Pouch,Accessories,2,13.75,NC,Apple Pay,Returned
+ORD-3193,5/18/2026,Travel Pouch,Accessories,2,13.75,FL,Debit Card,Delivered
+ORD-3262,2/26/2026,Travel Pouch,Accessories,2,13.75,PA,PayPal,Delivered
+ORD-3079,8/11/2026,Travel Pouch,Accessories,3,13.75,PA,PayPal,Delivered
+ORD-3026,2/27/2026,Travel Pouch,Accessories,3,13.75,FL,Apple Pay,Delivered
+ORD-3241,1/7/2026,Travel Pouch,Accessories,3,13.75,NY,Apple Pay,Delivered
+ORD-3124,8/12/2026,Travel Pouch,Accessories,5,13.75,CA,Debit Card,Delivered
+ORD-3146,8/31/2026,Phone Stand,Electronics,1,14.50,NJ,Apple Pay,Shipped
+ORD-3020,5/29/2026,Phone Stand,Electronics,1,14.50,NJ,PayPal,Delivered
+ORD-3285,7/22/2026,Phone Stand,Accessories,2,14.50,IL,PayPal,Shipped
+ORD-3215,1/4/2026,Phone Stand,Electronics,2,14.50,GA,Debit Card,Delivered
+ORD-3151,3/30/2026,Phone Stand,Electronics,5,14.50,NJ,PayPal,Delivered
+ORD-3058,3/5/2026,Phone Stand,Electronics,,14.50,FL,PayPal,Processing
+ORD-3204,3/20/2026,Phone Stand,Electronics,,14.50,GA,Debit Card,Delivered
+ORD-3112,8/9/2026,Planner,Office,1,14.99,NJ,PayPal,Delivered
+ORD-3225,5/18/2026,Resistance Bands,Office,1,14.99,NJ,Apple Pay,Cancelled
+ORD-3123,4/28/2026,Planner,Office,1,14.99,VA,Debit Card,Delivered
+ORD-3071,4/25/2026,Planner,Office,1,14.99,NY,PayPal,Cancelled
+ORD-3260,4/14/2026,Planner,Clothing,1,14.99,NJ,Debit Card,Delivered
+ORD-3200,4/6/2026,Planner,Office,1,14.99,MA,Credit Card,Delivered
+ORD-3280,3/4/2026,Planner,Office,1,14.99,GA,Apple Pay,Processing
+ORD-3004,2/10/2026,Planner,Office,1,14.99,NY,Apple Pay,Delivered
+ORD-3016,1/28/2026,Planner,Office,1,14.99,NY,Credit Card,Cancelled
+ORD-3182,7/17/2026,Planner,Office,2,14.99,FL,Debit Card,Delivered
+ORD-3258,5/22/2026,Planner,Office,3,14.99,VA,Apple Pay,Delivered
+ORD-3075,2/6/2026,Planner,Office,3,14.99,NC,Credit Card,Delivered
+ORD-3286,1/14/2026,Tote Bag,Accessories,1,15.99,NJ,PayPal,Shipped
+ORD-3292,8/19/2026,Tote Bag,Accessories,2,15.99,OH,PayPal,Delivered
+ORD-3249,6/18/2026,Tote Bag,Accessories,2,15.99,CA,PayPal,Delivered
+ORD-3126,5/29/2026,Tote Bag,Accessories,2,15.99,CA,PayPal,Cancelled
+ORD-3244,5/21/2026,Tote Bag,Accessories,2,15.99,MA,Credit Card,Delivered
+ORD-3011,2/27/2026,Tote Bag,Accessories,3,15.99,NJ,PayPal,Shipped
+ORD-3180,2/16/2026,Tote Bag,Accessories,3,15.99,FL,Debit Card,Cancelled
+ORD-3034,7/27/2026,Tote Bag,Accessories,4,15.99,GA,PayPal,Delivered
+ORD-3301,4/29/2026,Tote Bag,Accessories,4,15.99,PA,Debit Card,Cancelled
+,2/5/2026,Tote Bag,Accessories,4,15.99,IL,Apple Pay,Returned
+ORD-3153,7/7/2026,Water Bottle,Home,1,16.99,TX,Apple Pay,Delivered
+ORD-3120,1/19/2026,Water Bottle,Office,1,16.99,OH,Debit Card,Shipped
+ORD-3270,1/12/2026,Water Bottle,Home,1,16.99,CA,Credit Card,Delivered
+ORD-3208,8/15/2026,Water Bottle,Home,2,16.99,IL,Debit Card,Cancelled
+ORD-3217,8/8/2026,Water Bottle,Home,2,16.99,CA,PayPal,
+ORD-3061,3/24/2026,Water Bottle,Home,2,16.99,PA,PayPal,Delivered
+ORD-3221,5/24/2026,Water Bottle,Home,3,16.99,CA,Debit Card,Delivered
+ORD-3003,3/1/2026,Water Bottle,Home,3,16.99,PA,PayPal,Delivered
+ORD-3089,1/9/2026,Water Bottle,Home,3,16.99,GA,PayPal,Delivered
+ORD-3125,8/26/2026,Water Bottle,Home,4,16.99,VA,Credit Card,Shipped
+ORD-3178,5/1/2026,Water Bottle,Fitness,4,16.99,PA,Debit Card,Cancelled
+ORD-3198,4/10/2026,Water Bottle,Home,4,16.99,NC,PayPal,Delivered
+ORD-3062,8/27/2026,Resistance Bands,Fitness,1,17.99,NY,Credit Card,Returned
+ORD-3214,6/12/2026,Resistance Bands,Fitness,1,17.99,IL,Debit Card,Processing
+ORD-3259,5/20/2026,Water Bottle,Home,1,17.99,NC,PayPal,Returned
+ORD-3302,4/27/2026,Resistance Bands,Fitness,1,17.99,MA,Credit Card,Delivered
+ORD-3116,3/13/2026,Resistance Bands,Fitness,1,17.99,PA,PayPal,Delivered
+ORD-3284,2/24/2026,Resistance Bands,Fitness,1,17.99,CA,Credit Card,Shipped
+ORD-3226,2/9/2026,Resistance Bands,Fitness,1,17.99,CA,Apple Pay,Shipped
+ORD-3154,1/3/2026,Resistance Bands,Fitness,1,17.99,FL,Apple Pay,Cancelled
+ORD-3162,4/18/2026,Resistance Bands,Fitness,2,17.99,CA,Debit Card,Delivered
+ORD-3134,2/24/2026,Resistance Bands,Fitness,2,17.99,MA,PayPal,Delivered
+ORD-3167,2/22/2026,Resistance Bands,Fitness,2,17.99,GA,Debit Card,Delivered
+ORD-3013,1/24/2026,Resistance Bands,Fitness,2,17.99,NJ,Apple Pay,Delivered
+ORD-3036,4/29/2026,Resistance Bands,Fitness,2,17.99,IL,Apple Pay,Delivered
+ORD-3012,2/14/2026,Resistance Bands,Fitness,3,17.99,FL,PayPal,Delivered
+ORD-3170,6/1/2026,Resistance Bands,Fitness,4,17.99,IL,Credit Card,Processing
+ORD-3282,8/19/2026,Baseball Cap,Clothing,1,18.00,PA,Debit Card,Cancelled
+ORD-3103,2/11/2026,Baseball Cap,Home,1,18.00,OH,Apple Pay,Delivered
+ORD-3198,7/6/2026,Baseball Cap,Clothing,2,18.00,GA,PayPal,Delivered
+ORD-3141,5/30/2026,Baseball Cap,Clothing,2,18.00,CA,PayPal,Delivered
+ORD-3031,4/1/2026,Baseball Cap,Clothing,2,18.00,NC,PayPal,Shipped
+ORD-3090,3/3/2026,Baseball Cap,Clothing,2,18.00,NY,Debit Card,Delivered
+ORD-3189,2/15/2026,Baseball Cap,Clothing,2,18.00,NJ,PayPal,Delivered
+ORD-3148,8/22/2026,Storage Basket,Home,1,18.75,,Debit Card,Delivered
+ORD-3041,7/30/2026,Storage Basket,Home,1,18.75,OH,Apple Pay,Delivered
+ORD-3137,3/12/2026,Storage Basket,Home,1,18.75,MA,Credit Card,Processing
+ORD-3220,8/6/2026,Storage Basket,Fitness,2,18.75,FL,Debit Card,Delivered
+ORD-3104,7/2/2026,Storage Basket,Home,3,18.75,TX,PayPal,Delivered
+ORD-3094,6/28/2026,Storage Basket,Home,3,18.75,GA,PayPal,Processing
+ORD-3033,2/20/2026,Storage Basket,Home,3,18.75,NJ,Apple Pay,Delivered
+ORD-3113,1/26/2026,Yoga Mat,Fitness,3,18.75,CA,PayPal,Delivered
+ORD-3007,1/17/2026,Storage Basket,Home,4,18.75,OH,PayPal,Processing
+ORD-3086,6/27/2026,Storage Basket,Home,5,18.75,MA,Credit Card,Delivered
+ORD-3297,1/9/2026,Storage Basket,Home,,18.75,FL,Apple Pay,Delivered
+ORD-3318,8/13/2026,Desk Organizer,Office,1,19.99,IL,Apple Pay,Delivered
+ORD-3224,7/29/2026,Desk Organizer,Office,1,19.99,TX,Debit Card,Processing
+ORD-3298,7/13/2026,T-Shirt,Clothing,1,19.99,GA,Credit Card,Delivered
+ORD-3205,6/28/2026,Desk Organizer,Office,1,19.99,NY,Credit Card,Delivered
+ORD-3165,6/11/2026,T-Shirt,Clothing,1,19.99,IL,PayPal,Shipped
+ORD-3047,5/1/2026,Desk Organizer,Office,1,19.99,NY,Apple Pay,Delivered
+ORD-3272,3/22/2026,Desk Organizer,Clothing,1,19.99,PA,Credit Card,Delivered
+ORD-3300,3/20/2026,Sunglasses,Office,1,19.99,OH,PayPal,Returned
+ORD-3164,2/14/2026,Desk Organizer,Office,1,19.99,MA,Debit Card,Delivered
+ORD-3264,1/4/2026,T-Shirt,Clothing,1,19.99,FL,Apple Pay,Shipped
+ORD-3307,8/28/2026,Desk Organizer,Office,2,19.99,MA,Credit Card,Delivered
+ORD-3171,8/19/2026,T-Shirt,Clothing,2,19.99,GA,Debit Card,Delivered
+ORD-3091,7/24/2026,Desk Organizer,Office,2,19.99,GA,PayPal,Delivered
+ORD-3212,7/5/2026,T-Shirt,Clothing,2,19.99,VA,Credit Card,Delivered
+ORD-3229,3/6/2026,T-Shirt,Clothing,2,19.99,OH,Credit Card,Cancelled
+ORD-3081,1/30/2026,Desk Organizer,Office,2,19.99,OH,Apple Pay,Returned
+ORD-3160,6/18/2026,T-Shirt,Clothing,3,19.99,TX,Apple Pay,Cancelled
+ORD-3135,5/5/2026,T-Shirt,Clothing,3,19.99,IL,Debit Card,Delivered
+ORD-3092,3/11/2026,Desk Organizer,Office,3,19.99,PA,Debit Card,Processing
+ORD-3231,2/26/2026,T-Shirt,Clothing,3,19.99,NC,Credit Card,Shipped
+ORD-3211,8/31/2026,Throw Pillow,Home,4,19.99,NJ,PayPal,Shipped
+ORD-3296,5/31/2026,Desk Organizer,Office,4,19.99,MA,PayPal,Delivered
+ORD-3017,1/12/2026,T-Shirt,Clothing,,19.99,PA,Credit Card,Shipped
+ORD-3129,8/26/2026,Baseball Cap,Clothing,1,21.50,NC,PayPal,Processing
+ORD-3111,7/12/2026,Throw Pillow,Home,1,21.50,VA,PayPal,Processing
+ORD-3245,5/22/2026,Throw Pillow,Home,1,21.50,CA,PayPal,Delivered
+ORD-3315,5/4/2026,Throw Pillow,Home,1,21.50,NJ,Apple Pay,Cancelled
+ORD-3213,4/17/2026,Throw Pillow,Home,1,21.50,OH,PayPal,
+ORD-3174,4/6/2026,Throw Pillow,Home,1,21.50,VA,Apple Pay,Returned
+ORD-3072,1/16/2026,Throw Pillow,Home,1,21.50,NJ,Credit Card,Delivered
+ORD-3240,7/25/2026,Throw Pillow,Home,2,21.50,PA,Debit Card,Returned
+ORD-3078,7/17/2026,Throw Pillow,Home,2,21.50,NY,Credit Card,Delivered
+ORD-3119,6/8/2026,Throw Pillow,,2,21.50,MA,PayPal,Delivered
+ORD-3024,1/8/2026,Throw Pillow,Home,2,21.50,NJ,Credit Card,Delivered
+ORD-3065,8/12/2026,Throw Pillow,Home,3,21.50,NC,PayPal,Delivered
+ORD-3271,5/19/2026,Throw Pillow,Home,3,21.50,GA,Credit Card,Delivered
+ORD-3076,3/7/2026,Throw Pillow,Home,12,21.50,NY,PayPal,Delivered
+ORD-3279,1/29/2026,Throw Pillow,Home,99,21.50,NC,PayPal,Delivered
+ORD-3305,8/7/2026,Candle Set,Home,1,22.50,NJ,Credit Card,Delivered
+ORD-3183,7/17/2026,Candle Set,Home,1,22.50,OH,Credit Card,Processing
+ORD-3223,7/11/2026,Candle Set,Home,1,22.50,FL,PayPal,Delivered
+ORD-3317,4/28/2026,Candle Set,,1,22.50,VA,Debit Card,Delivered
+ORD-3083,2/27/2026,Candle Set,Home,1,22.50,NC,Debit Card,Returned
+ORD-3185,2/25/2026,Candle Set,Home,1,22.50,NC,,Delivered
+ORD-3149,7/13/2026,Candle Set,Office,4,22.50,NY,PayPal,Delivered
+ORD-3158,8/23/2026,Wireless Mouse,Electronics,1,24.99,VA,Credit Card,Cancelled
+ORD-3163,8/7/2026,Wireless Mouse,Electronics,1,24.99,NJ,PayPal,Delivered
+ORD-3274,8/5/2026,Wireless Mouse,Electronics,1,24.99,PA,Credit Card,Delivered
+ORD-3147,7/10/2026,Wireless Mouse,Electronics,1,24.99,NC,Debit Card,Delivered
+ORD-3255,7/7/2026,Wireless Mouse,Electronics,1,24.99,MA,PayPal,Returned
+ORD-3197,6/21/2026,Wireless Mouse,Electronics,1,24.99,TX,Apple Pay,Delivered
+ORD-3100,4/7/2026,Wireless Mouse,Electronics,1,24.99,NC,Credit Card,Delivered
+ORD-3098,3/12/2026,Wireless Mouse,Electronics,1,24.99,GA,Credit Card,Delivered
+ORD-3263,1/28/2026,T-Shirt,Electronics,1,24.99,FL,Debit Card,Delivered
+ORD-3014,5/30/2026,Notebook Set,Office,2,24.99,NY,Apple Pay,Cancelled
+ORD-3252,4/28/2026,Wireless Mouse,Electronics,2,24.99,MA,PayPal,Cancelled
+ORD-3166,3/24/2026,Wireless Mouse,Electronics,2,24.99,PA,PayPal,Returned
+ORD-3290,1/16/2026,Wireless Mouse,Electronics,5,24.99,OH,PayPal,Shipped
+ORD-3131,1/15/2026,Wireless Mouse,Electronics,,24.99,NJ,PayPal,Returned
+ORD-3299,8/29/2026,Foam Roller,Accessories,1,25.99,FL,Apple Pay,Delivered
+ORD-3234,8/2/2026,Foam Roller,Clothing,1,25.99,MA,Debit Card,Processing
+ORD-3203,7/13/2026,Foam Roller,Fitness,1,25.99,IL,Credit Card,Delivered
+ORD-3077,4/19/2026,Foam Roller,Fitness,1,25.99,TX,Credit Card,Shipped
+ORD-3172,3/26/2026,Gel Pen Pack,Fitness,1,25.99,GA,PayPal,Delivered
+ORD-3293,3/3/2026,Sunglasses,Accessories,1,25.99,CA,Debit Card,Delivered
+ORD-3055,5/17/2026,Foam Roller,Fitness,2,25.99,PA,Credit Card,Delivered
+ORD-3250,3/31/2026,Foam Roller,Fitness,2,25.99,NY,Debit Card,Delivered
+ORD-3056,7/19/2026,Foam Roller,Home,3,25.99,FL,Credit Card,Processing
+ORD-3139,3/3/2026,Storage Basket,Fitness,5,25.99,NJ,PayPal,Delivered
+ORD-3230,7/23/2026,Sunglasses,Accessories,1,26.50,IL,Apple Pay,Delivered
+ORD-3145,7/9/2026,Sunglasses,Accessories,1,26.50,TX,PayPal,Cancelled
+ORD-3088,5/6/2026,Sunglasses,Accessories,1,26.50,VA,PayPal,Delivered
+ORD-3096,3/8/2026,Sunglasses,Accessories,1,26.50,VA,Credit Card,Delivered
+ORD-3175,2/16/2026,Sunglasses,Accessories,1,26.50,NJ,,Returned
+ORD-3216,1/15/2026,Sunglasses,Accessories,1,26.50,NJ,Apple Pay,Delivered
+ORD-3043,7/5/2026,Sunglasses,Accessories,2,26.50,PA,Debit Card,Delivered
+ORD-3291,5/31/2026,Sunglasses,Accessories,2,26.50,NJ,Debit Card,Delivered
+ORD-3207,4/28/2026,Yoga Mat,Accessories,2,26.50,NC,Apple Pay,Delivered
+ORD-3142,1/10/2026,Sunglasses,Accessories,3,26.50,CA,Debit Card,Cancelled
+ORD-3093,5/12/2026,Sunglasses,Accessories,4,26.50,OH,Credit Card,Cancelled
+ORD-3173,8/8/2026,Laptop Sleeve,Office,1,27.50,GA,Debit Card,Returned
+ORD-3106,8/6/2026,Desk Lamp,Office,1,27.50,NC,PayPal,Delivered
+ORD-3295,7/22/2026,Laptop Sleeve,Office,1,27.50,PA,Debit Card,Cancelled
+ORD-3275,7/9/2026,Laptop Sleeve,Office,1,27.50,NC,PayPal,Processing
+ORD-3320,5/1/2026,Laptop Sleeve,Office,1,27.50,NC,Apple Pay,Delivered
+ORD-3084,3/29/2026,Laptop Sleeve,Office,1,27.50,NC,Apple Pay,Delivered
+ORD-3042,3/25/2026,Laptop Sleeve,Electronics,1,27.50,GA,Apple Pay,Delivered
+ORD-3039,2/26/2026,Laptop Sleeve,Office,1,27.50,TX,PayPal,Delivered
+ORD-3080,2/16/2026,Laptop Sleeve,Office,1,27.50,IL,Credit Card,Processing
+ORD-3122,4/29/2026,Desk Lamp,Office,2,27.50,TX,Credit Card,Returned
+ORD-3010,1/16/2026,Laptop Sleeve,Office,2,27.50,NC,PayPal,Cancelled
+ORD-3179,1/15/2026,Laptop Sleeve,Office,2,27.50,NC,Credit Card,Delivered
+ORD-3057,6/5/2026,Yoga Mat,Fitness,1,29.99,CA,Apple Pay,Shipped
+ORD-3281,4/1/2026,Tote Bag,Fitness,1,29.99,NY,Apple Pay,Delivered
+ORD-3101,3/21/2026,Yoga Mat,Fitness,1,29.99,NY,Apple Pay,Delivered
+ORD-3127,3/16/2026,Yoga Mat,Fitness,1,29.99,TX,PayPal,Shipped
+ORD-3243,3/4/2026,Portable Charger,Electronics,1,29.99,MA,Apple Pay,Delivered
+ORD-3102,2/21/2026,Yoga Mat,Fitness,1,29.99,IL,Debit Card,Delivered
+ORD-3060,2/7/2026,Yoga Mat,Fitness,1,29.99,FL,Debit Card,Delivered
+ORD-3247,7/18/2026,Yoga Mat,Clothing,2,29.99,OH,Debit Card,Delivered
+ORD-3273,3/27/2026,Yoga Mat,Fitness,2,29.99,TX,Credit Card,Cancelled
+ORD-3267,2/5/2026,Yoga Mat,Fitness,3,29.99,MA,Credit Card,Shipped
+ORD-3276,5/19/2026,Yoga Mat,Fitness,4,29.99,PA,Credit Card,Shipped
+ORD-3025,2/2/2026,Yoga Mat,Fitness,4,29.99,CA,PayPal,Delivered
+ORD-3008,8/1/2026,Desk Lamp,Home,1,32.00,NJ,PayPal,Cancelled
+ORD-3308,7/27/2026,Desk Lamp,Home,1,32.00,TX,Debit Card,Shipped
+ORD-3044,7/17/2026,Desk Lamp,Home,1,32.00,TX,PayPal,Delivered
+ORD-3110,7/6/2026,Desk Lamp,Home,1,32.00,GA,Debit Card,Processing
+ORD-3097,5/29/2026,Baseball Cap,Clothing,1,32.00,NY,Debit Card,Delivered
+ORD-3294,4/3/2026,Desk Lamp,Home,1,32.00,IL,Apple Pay,Delivered
+ORD-3310,1/24/2026,Desk Lamp,Accessories,2,32.00,PA,PayPal,Processing
+ORD-3114,8/26/2026,Desk Lamp,Home,3,32.00,PA,Debit Card,Returned
+ORD-3257,4/29/2026,Desk Lamp,Home,4,32.00,MA,Apple Pay,Delivered
+ORD-3115,1/7/2026,Desk Lamp,Home,4,32.00,IL,Debit Card,Delivered
+ORD-3266,3/22/2026,Desk Lamp,Home,5,32.00,OH,Debit Card,Delivered
+ORD-3150,3/10/2026,Desk Lamp,Home,5,32.00,OH,Debit Card,Delivered
+ORD-3159,6/19/2026,Portable Charger,Electronics,1,34.99,NY,Credit Card,Returned
+ORD-3027,2/22/2026,Portable Charger,Electronics,1,34.99,NY,Credit Card,Delivered
+ORD-3040,2/5/2026,Portable Charger,Electronics,1,34.99,PA,PayPal,Returned
+ORD-3188,8/30/2026,Portable Charger,Electronics,2,34.99,CA,Apple Pay,Returned
+ORD-3232,6/8/2026,Portable Charger,Electronics,2,34.99,VA,Debit Card,Delivered
+ORD-3052,3/25/2026,Portable Charger,Electronics,2,34.99,GA,PayPal,Delivered
+ORD-3304,1/8/2026,Portable Charger,Electronics,2,34.99,,Debit Card,Returned
+ORD-3018,7/13/2026,Portable Charger,Electronics,3,34.99,CA,Debit Card,Delivered
+ORD-3005,5/21/2026,Portable Charger,Electronics,3,34.99,IL,PayPal,Delivered
+ORD-3265,5/12/2026,Portable Charger,Electronics,3,34.99,NY,Debit Card,Processing
+ORD-3021,1/9/2026,Portable Charger,Electronics,5,34.99,GA,Apple Pay,Delivered
+ORD-3318,6/5/2026,Bluetooth Speaker,Electronics,1,39.99,CA,PayPal,Delivered
+ORD-3155,6/2/2026,Bluetooth Speaker,Electronics,1,39.99,VA,PayPal,Delivered
+ORD-3152,5/19/2026,Bluetooth Speaker,Electronics,1,39.99,VA,Apple Pay,Delivered
+ORD-3063,5/18/2026,Bluetooth Speaker,Electronics,1,39.99,FL,PayPal,Shipped
+ORD-3009,7/13/2026,Bluetooth Speaker,Electronics,2,39.99,OH,Debit Card,Cancelled
+ORD-3278,4/22/2026,Bluetooth Speaker,Electronics,2,39.99,OH,Debit Card,Delivered
+ORD-3313,1/2/2026,Bluetooth Speaker,Electronics,2,39.99,OH,PayPal,Shipped
+ORD-3117,4/21/2026,Crewneck Sweatshirt,Clothing,1,42.00,MA,Apple Pay,Delivered
+ORD-3066,3/23/2026,Crewneck Sweatshirt,Clothing,1,42.00,TX,Apple Pay,Delivered
+ORD-3306,2/8/2026,Webcam,Electronics,1,42.00,GA,Debit Card,Delivered
+ORD-3261,2/3/2026,Crewneck Sweatshirt,Clothing,1,42.00,FL,PayPal,Shipped
+ORD-3268,6/4/2026,Crewneck Sweatshirt,Clothing,2,42.00,CA,Credit Card,Processing
+ORD-3133,3/10/2026,Crewneck Sweatshirt,Office,2,42.00,PA,PayPal,Delivered
+ORD-3312,2/9/2026,,Clothing,2,42.00,TX,Debit Card,Delivered
+ORD-3070,1/19/2026,Crewneck Sweatshirt,Clothing,2,42.00,PA,Credit Card,Shipped
+ORD-3051,1/1/2026,Crewneck Sweatshirt,Clothing,2,42.00,CA,Credit Card,Delivered
+ORD-3186,4/15/2026,Crewneck Sweatshirt,Clothing,2,42.00,OH,PayPal,Delivered
+ORD-3253,5/4/2026,Crewneck Sweatshirt,Clothing,3,42.00,OH,PayPal,Delivered
+ORD-3095,4/10/2026,Crewneck Sweatshirt,Clothing,3,42.00,FL,PayPal,Delivered
+ORD-3107,8/27/2026,Crewneck Sweatshirt,Clothing,4,42.00,IL,Debit Card,Cancelled
+ORD-3238,2/25/2026,Crewneck Sweatshirt,Clothing,4,42.00,NC,PayPal,Delivered
+ORD-3309,2/14/2026,Crewneck Sweatshirt,Clothing,5,42.00,GA,Apple Pay,Returned
+ORD-3048,2/3/2026,Crewneck Sweatshirt,Clothing,5,42.00,NY,Apple Pay,Shipped
+ORD-3235,8/29/2026,Keyboard,Electronics,1,44.99,FL,PayPal,Delivered
+ORD-3237,6/25/2026,Keyboard,Electronics,1,44.99,NJ,Apple Pay,Cancelled
+ORD-3195,6/9/2026,Keyboard,Electronics,1,44.99,IL,Credit Card,Shipped
+ORD-3002,6/8/2026,Keyboard,Electronics,1,44.99,OH,Debit Card,Delivered
+ORD-3109,5/2/2026,Keyboard,Electronics,1,44.99,CA,Apple Pay,Delivered
+ORD-3254,4/22/2026,Keyboard,Electronics,1,44.99,TX,Apple Pay,Shipped
+ORD-3069,3/15/2026,Keyboard,Electronics,2,44.99,PA,Credit Card,Delivered
+ORD-3087,8/21/2026,Bluetooth Speaker,Electronics,5,44.99,PA,PayPal,Delivered
+ORD-3121,8/22/2026,Webcam,Electronics,1,49.99,FL,Apple Pay,Delivered
+ORD-3028,6/20/2026,Webcam,Electronics,1,49.99,OH,Credit Card,Delivered
+ORD-3049,5/16/2026,Webcam,Electronics,1,49.99,OH,PayPal,Delivered
+ORD-3006,5/13/2026,Webcam,Electronics,1,49.99,MA,PayPal,Delivered
+ORD-3054,3/4/2026,Webcam,Electronics,1,49.99,CA,Credit Card,Processing
+ORD-3068,6/23/2026,Webcam,Electronics,2,49.99,NJ,Apple Pay,Delivered
+ORD-3085,3/8/2026,Webcam,Electronics,2,49.99,NC,Credit Card,Shipped
+ORD-3046,6/13/2026,Webcam,Electronics,3,49.99,TX,Credit Card,Delivered
+ORD-3286,1/15/2026,Webcam,Electronics,4,49.99,VA,Apple Pay,Shipped
+ORD-3316,5/31/2026,Water Bottle,Home,5,999.99,PA,Apple Pay,Delivered
+ORD-3227,1/28/2026,USB-C Cable,Electronics,1,27.50,NC,PayPal,Shipped
+ORD-3045,4/3/2026,Yoga Mat,Fitness,2,39.99,TX,Apple Pay,Delivered
+ORD-3277,5/21/2026,Planner,Office,1,9.50,CA,Apple Pay,Delivered
+ORD-3144,5/13/2026,Gel Pen Pack,Office,3,16.99,PA,Credit Card,Delivered
+ORD-3064,4/17/2026,Wireless Mouse,Electronics,1,14.50,NJ,Apple Pay,Delivered
+ORD-3251,8/10/2026,Tote Bag,Accessories,1,,GA,PayPal,Cancelled
+ORD-3082,8/17/2026,USB-C Cable,Electronics,2,,MA,Credit Card,Delivered
