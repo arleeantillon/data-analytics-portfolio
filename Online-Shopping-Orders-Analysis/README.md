@@ -30,7 +30,7 @@ Some of the cleaning steps included:
 - Standardized product names, categories, customer states, payment methods, and order statuses.
 - Fixed inconsistent date formats.
 - Converted quantity values such as "two" and "five" into numbers.
-- Fixed inconsistent unit price formats and removed invalid values.
+- Fixed inconsistent unit price formats and left invalid or unknown values blank.
 - Standardized Order ID formatting.
 - Checked for missing values and left them blank when the correct value could not be determined.
 - Identified duplicate Order IDs and kept the records when the rest of the order information was different.
@@ -100,10 +100,10 @@ I grouped the data by product and calculated the total quantity sold to find the
 
 ## Project Files
 
-- `Data/Raw/online_orders_raw.csv` – Original dataset before cleaning.
-- `Data/Cleaned/online_orders_clean.csv` – Cleaned dataset used for the SQL analysis.
-- `SQL/online_orders_analysis.sql` – SQL queries used to analyze the cleaned data.
-- `Images/` – Screenshots from the data cleaning and analysis process.
+- [`Data/Raw/online_orders_raw.csv`](Data/Raw/online_orders_raw.csv) – Original dataset before cleaning.
+- [`Data/Cleaned/online_orders_clean.csv`](Data/Cleaned/online_orders_clean.csv) – Cleaned dataset used for the SQL analysis.
+- [`SQL/online_orders_analysis.sql`](SQL/online_orders_analysis.sql) – SQL queries used to analyze the cleaned data.
+- [`Images/`](Images/) – Screenshots from the data cleaning and analysis process.
 
 
 ## What I Learned
