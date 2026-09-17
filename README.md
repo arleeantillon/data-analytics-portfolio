@@ -1,7 +1,6 @@
 # Data Analytics Portfolio
 
-Hi! I'm a Computer Science graduate building hands-on experience in data analytics. This portfolio showcases projects where I analyze data, create visualizations, and use data to answer business questions.
-
+Hi! I'm a Computer Science graduate building hands-on experience in data analytics. I'm developing my skills through projects using tools such as SQL, Google Sheets, Excel, and Tableau to clean data, analyze information, create visualizations, and answer business questions.
 ## Projects
 
 ### Deloitte Australia Data Analytics Job Simulation
