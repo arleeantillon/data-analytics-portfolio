@@ -98,16 +98,16 @@ I grouped the data by product and calculated the total quantity sold to find the
 - Two records had missing order statuses, so the order status analysis included 318 of the 320 records.
 
 
+## What I Learned
+
+This project helped me get more comfortable working through a dataset from start to finish. I practiced cleaning messy data in Google Sheets, checking my work, and deciding how to handle missing values and possible outliers without making assumptions.
+
+
 ## Project Files
 
 - [`Data/Raw/online_orders_raw.csv`](Data/Raw/online_orders_raw.csv) – Original dataset before cleaning.
 - [`Data/Cleaned/online_orders_clean.csv`](Data/Cleaned/online_orders_clean.csv) – Cleaned dataset used for the SQL analysis.
 - [`SQL/online_orders_analysis.sql`](SQL/online_orders_analysis.sql) – SQL queries used to analyze the cleaned data.
 - [`Images/`](Images/) – Screenshots from the data cleaning and analysis process.
-
-
-## What I Learned
-
-This project helped me get more comfortable working through a dataset from start to finish. I practiced cleaning messy data in Google Sheets, checking my work, and deciding how to handle missing values and possible outliers without making assumptions.
 
 I also got more practice using basic SQL to answer questions from the cleaned data. One thing I learned was how important data cleaning is before analysis because inconsistent values, missing data, and outliers can affect the results.
