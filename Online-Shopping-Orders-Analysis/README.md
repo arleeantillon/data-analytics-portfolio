@@ -100,7 +100,7 @@ I grouped the data by product and calculated the total quantity sold to find the
 
 ## What I Learned
 
-This project helped me get more comfortable working through a dataset from start to finish. I practiced cleaning messy data in Google Sheets, checking my work, and deciding how to handle missing values and possible outliers without making assumptions.
+This project helped me get more comfortable working through a dataset from start to finish. I practiced cleaning messy data in Google Sheets, checking my work, and deciding how to handle missing values and possible outliers without making assumptions. I also got more practice using basic SQL to answer questions from the cleaned data. One thing I learned was how important data cleaning is before analysis because inconsistent values, missing data, and outliers can affect the results.
 
 
 ## Project Files
@@ -110,4 +110,5 @@ This project helped me get more comfortable working through a dataset from start
 - [`SQL/online_orders_analysis.sql`](SQL/online_orders_analysis.sql) – SQL queries used to analyze the cleaned data.
 - [`Images/`](Images/) – Screenshots from the data cleaning and analysis process.
 
-I also got more practice using basic SQL to answer questions from the cleaned data. One thing I learned was how important data cleaning is before analysis because inconsistent values, missing data, and outliers can affect the results.
+
+
