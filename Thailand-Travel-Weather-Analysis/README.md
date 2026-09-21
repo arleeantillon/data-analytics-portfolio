@@ -139,12 +139,6 @@ This project helped me get more comfortable working with a larger dataset and ta
 
 I also got more practice using Tableau to turn the results into an interactive dashboard. One thing I learned from this project was how the same dataset can be viewed in different ways depending on the question being asked. Looking at temperature, rainfall, humidity, and wind together gave me a better understanding of the weather than looking at only one measurement.
 
-## Limitations
-
-This project only uses weather data from 2025, so the results show what happened during that year and should not be treated as a prediction of what the weather will always be like in Thailand.
-
-The travel weather categories are also based on simple temperature and rainy-day ranges that I created for this project. They are meant to help compare the destinations and are not official travel ratings. Different travelers may prefer different weather conditions.
-
 ## Project Files
 
 - [`Data/Raw/thailand_weather_2025_raw.csv`](Data/Raw/thailand_weather_2025_raw.csv) - original daily weather data
@@ -153,9 +147,3 @@ The travel weather categories are also based on simple temperature and rainy-day
 - [`SQL/thailand_weather_analysis.sql`](SQL/thailand_weather_analysis.sql) - SQL queries used for the analysis
 - [`Tableau/thailand_travel_weather_dashboard.twb`](Tableau/thailand_travel_weather_dashboard.twb) - Tableau workbook
 - `Images/` - screenshots used in this README
-
-## Limitations
-
-This project only uses weather data from 2025, so the results show what happened during that year and should not be treated as a long-term prediction of Thailand's weather.
-
-The travel weather categories are also based on simple temperature and rainy-day ranges that I created for this project. Different travelers may have different preferences for temperature, rain, humidity, and other weather conditions.
