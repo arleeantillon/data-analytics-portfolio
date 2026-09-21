@@ -129,6 +129,8 @@ After looking at the 2025 weather data, I noticed a few patterns:
 
 - **Humidity also increased during the wetter months.** Average humidity across the destinations reached its highest point in September at about 83.5%.
 
+- **Based on my personal weather preference, January would be a good time for me to visit Thailand.** I prefer weather that is warm but not extremely hot, with less rain. The January data showed relatively dry conditions while still offering different temperatures depending on the destination. For example, Bangkok averaged about 81.3°F with almost no rain, while Baan Rak Thai averaged about 63.6°F with much lower temperatures.
+
 Overall, the data showed that weather can be very different depending on both the destination and time of year, which is why looking at monthly patterns can be helpful when planning a trip.
 
 ## What I Learned
