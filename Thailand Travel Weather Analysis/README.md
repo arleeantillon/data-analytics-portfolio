@@ -113,13 +113,35 @@ I used average temperature and the number of rainy days to separate the destinat
 
 These categories are only meant to provide a simple comparison for this project. They are not official travel ratings because what someone considers good weather can depend on their personal preferences.
 
+## Key Findings
+
+After looking at the 2025 weather data, I noticed a few patterns:
+
+- **Baan Rak Thai was the coolest destination overall**, with an average temperature of about 69.5°F. Its coolest month was January, when the average temperature was 63.6°F.
+
+- **Bangkok was the warmest destination overall**, averaging about 82.8°F throughout the year. March was especially warm, with an average temperature of 86.3°F.
+
+- **Rain increased a lot during the middle of the year.** Across the destinations, May through October generally had much more rainfall and more rainy days compared to the beginning of the year.
+
+- **Chiang Mai had the rainiest individual month in the dataset.** It received about 20.69 inches of rain in July and had rain recorded on all 31 days.
+
+- **Hua Hin had the lowest total rainfall for the year** out of the 11 destinations, with about 48.5 inches.
+
+- **Humidity also increased during the wetter months.** Average humidity across the destinations reached its highest point in September at about 83.5%.
+
+Overall, the data showed that weather can be very different depending on both the destination and time of year, which is why looking at monthly patterns can be helpful when planning a trip.
+
 ## What I Learned
 
-This project gave me experience working through multiple parts of the data analysis process instead of only creating charts.
+This project helped me get more comfortable working with a larger dataset and taking it through the full data analysis process. I practiced cleaning daily weather data in Google Sheets, checking the data for problems, and using SQL to turn thousands of daily records into monthly summaries.
 
-I practiced cleaning and checking a raw dataset, using SQL to summarize thousands of daily records, and turning the results into an interactive dashboard that is easier to understand.
+I also got more practice using Tableau to turn the results into an interactive dashboard. One thing I learned from this project was how the same dataset can be viewed in different ways depending on the question being asked. Looking at temperature, rainfall, humidity, and wind together gave me a better understanding of the weather than looking at only one measurement.
 
-It also gave me more practice using Google Sheets, SQL, and Tableau together in one project.
+## Limitations
+
+This project only uses weather data from 2025, so the results show what happened during that year and should not be treated as a prediction of what the weather will always be like in Thailand.
+
+The travel weather categories are also based on simple temperature and rainy-day ranges that I created for this project. They are meant to help compare the destinations and are not official travel ratings. Different travelers may prefer different weather conditions.
 
 ## Project Files
 
