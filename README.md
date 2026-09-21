@@ -1,7 +1,45 @@
 # Data Analytics Portfolio
 
-Hi! I'm a Computer Science graduate building hands-on experience in data analytics. I'm developing my skills through projects using tools such as SQL, Google Sheets, Excel, and Tableau to clean data, analyze information, create visualizations, and answer business questions.
+Hi! I'm a Computer Science graduate building hands-on experience in data analytics. I'm developing my skills through projects using SQL, Google Sheets, Excel, and Tableau to clean data, analyze information, find patterns, and create visualizations.
+
 ## Projects
+
+### Thailand Travel Weather Analysis
+
+**Tools:** Google Sheets, SQL (SQLite), Tableau  
+**Data Source:** Open-Meteo Historical Weather Data
+
+Analyzed 2025 weather data from 11 popular destinations in Thailand to compare weather patterns throughout the year and explore how conditions change by destination and month.
+
+**Highlights:**
+- Cleaned and organized over 4,000 daily weather records in Google Sheets
+- Checked for missing values and duplicate records before analysis
+- Used SQL to calculate monthly temperatures, rainfall, rainy days, humidity, and wind speed
+- Used a Tableau calculated field to group weather conditions as More Favorable, Moderate, or Less Favorable
+- Built an interactive Tableau dashboard with month and destination filters
+- Compared monthly weather patterns across 11 destinations
+
+[View Thailand Travel Weather Analysis →](Thailand-Travel-Weather-Analysis/)
+
+---
+
+### Online Shopping Orders Analysis
+
+**Tools:** Google Sheets, SQL (SQLite)
+
+Cleaned and analyzed a messy online shopping orders dataset to practice the data analytics process from data cleaning to SQL analysis.
+
+**Highlights:**
+- Cleaned and standardized 320 order records in Google Sheets
+- Removed duplicate rows and standardized categories, dates, states, payment methods, and order statuses
+- Checked missing values and data types before analysis
+- Used SQL to analyze sales by category and customer state
+- Identified top-selling products and analyzed order statuses
+- Documented data-quality decisions, including missing values and possible outliers
+
+[View Online Shopping Orders Analysis →](Online-Shopping-Orders-Analysis/)
+
+---
 
 ### Deloitte Australia Data Analytics Job Simulation
 
@@ -18,28 +56,12 @@ Analyzed manufacturing telemetry and employee compensation data to identify mach
 
 [View Deloitte Data Analytics Project →](Deloitte-Data-Analytics/)
 
-### Online Shopping Orders Analysis
-
-**Tools:** Google Sheets, SQL (SQLite)
-
-Cleaned and analyzed a messy online shopping orders dataset to practice the full data analytics process from data cleaning to SQL analysis.
-
-**Highlights:**
-- Cleaned and standardized 320 order records in Google Sheets
-- Removed duplicate rows and standardized categories, dates, states, payment methods, and order statuses
-- Checked missing values and data types before analysis
-- Used SQL to analyze sales by category and customer state
-- Used SQL to identify top-selling products and analyze order statuses
-- Documented data-quality decisions, including missing values and possible outliers
-
-[View Online Shopping Orders Analysis Project →](Online-Shopping-Orders-Analysis/)
-
 ## Skills
 
-- Google Sheets
-- Microsoft Excel
 - SQL
 - SQLite
+- Google Sheets
+- Microsoft Excel
 - Tableau
 - Data Cleaning
 - Data Analysis
@@ -47,4 +69,4 @@ Cleaned and analyzed a messy online shopping orders dataset to practice the full
 - Data Quality Checks
 - Dashboard Development
 - Calculated Fields
-- Excel IF Functions
+- Excel Functions
