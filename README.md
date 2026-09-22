@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi! I'm a Computer Science graduate building hands-on experience in data analytics. I'm developing my skills through projects using SQL, Google Sheets, Excel, and Tableau to clean data, analyze information, find patterns, and create visualizations.
+Hi! I'm a Computer Science graduate building experience in data analytics. I'm developing my skills through projects using SQL, Google Sheets, Excel, and Tableau to clean data, analyze information, find patterns, and create visualizations.
 
 ## Projects
 
