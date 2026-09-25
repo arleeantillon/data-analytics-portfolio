@@ -56,6 +56,26 @@ Analyzed manufacturing telemetry and employee compensation data to identify mach
 
 [View Deloitte Data Analytics Project →](Deloitte-Data-Analytics/)
 
+---
+
+### London Insurance Life Operations Analyst Job Simulation
+
+**Tools:** Microsoft Excel, AI-assisted data review  
+**Platform:** Forage
+
+Reviewed insurance data from an e-trading platform and internal administration system to identify potential data quality issues and recommend process improvements.
+
+**Highlights:**
+- Reviewed an AI-generated exception report covering 357 insurance records
+- Analyzed potential issues involving premiums, deductible/excess, status, territory, limits, and dates
+- Identified 71 records flagged for review, representing about 19.9% of the records analyzed
+- Sense-checked AI-generated findings instead of automatically treating every flagged difference as an error
+- Identified cases where differences in terminology required human review
+- Evaluated internal checks, third-party support, and technology-led improvements for reducing future data quality issues
+- Recommended a phased approach combining targeted checks, technology improvements, and human oversight
+
+[View London Insurance Life Operations Analyst Project →](London-Insurance-Life-Operations-Analyst/)
+
 ## Skills
 
 - SQL
@@ -67,6 +87,11 @@ Analyzed manufacturing telemetry and employee compensation data to identify mach
 - Data Analysis
 - Data Visualization
 - Data Quality Checks
+- Data Quality Management
 - Dashboard Development
 - Calculated Fields
 - Excel Functions
+- AI-Assisted Analysis
+- Process Analysis
+- SWOT Analysis
+- Business Communication
