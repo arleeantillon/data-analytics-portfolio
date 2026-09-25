@@ -1,100 +1,71 @@
 # London Insurance Life Operations Analyst Job Simulation
 
+**Platform:** Forage  
+**Tools:** Microsoft Excel, AI-assisted data review  
+**Completed:** September 2026
+
 ## Project Overview
 
-I completed the London Insurance Life Operations Analyst Job Simulation on Forage. In this simulation, I worked with fictional insurance data to review data quality issues between an e-trading platform and an internal administration system.
+I completed London Insurance Life's Operations Analyst Job Simulation through Forage. The simulation focused on reviewing insurance data, identifying data quality issues, evaluating AI-generated findings, and recommending ways to improve business processes.
 
-The project focused on using Excel and AI-assisted tools to find possible data issues, review the AI results, and think about ways the business could prevent similar problems in the future.
+## Task 1: AI-Assisted Data Quality Review
 
-## Tools Used
+### Business Question
 
-- Microsoft Excel
-- AI-assisted data review
-- SWOT analysis
+Northbridge needed to compare records from an e-trading platform with its internal administration system to identify possible data quality issues.
 
-## What I Did
+### What I Did
 
-### 1. Created an AI Prompt
+Using Excel, I reviewed an AI-generated exception report covering 357 insurance records. I checked differences across fields such as premium, deductible/excess, status, territory, limits, and dates.
 
-I was given sample data from an e-trading system and an internal administration system. I created a prompt asking AI to compare matching records using the Policy ID and check fields such as:
+I also reviewed selected AI flags to determine whether they represented actual mismatches or differences that needed human review.
 
-- Premium amount
-- Status
-- Deductible / excess
-- Territory
-- Limit amount
-- Inception and expiry dates
+### Key Findings
 
-I also instructed the AI not to automatically assume every difference was an error and to flag unclear cases for human review.
+- 357 records were reviewed
+- 71 records were flagged for possible issues
+- 286 records were not flagged
+- About 19.9% of records contained a potential issue
+- Premium mismatches were the most common issue, with 18 records flagged
+- Some territory differences required human review because different systems could use different terminology
+
+### AI Prompt Review
 
 ![AI Prompt Review](Images/ai_prompt_review.png)
 
-### 2. Reviewed the AI Exception Report
-
-I reviewed a pre-generated AI-assisted exception report covering **357 records**.
-
-The report flagged **71 records** for possible issues, which was approximately **19.9%** of the records reviewed. The other **286 records (80.1%)** were not flagged.
-
-The issues identified included:
-
-| Issue Type | Records Flagged |
-|---|---:|
-| Premium mismatch | 18 |
-| Deductible / excess issue | 15 |
-| Status mismatch | 14 |
-| Territory / terminology issue | 12 |
-| Limit mismatch | 6 |
-| Date mismatch | 6 |
-
-![AI Exception Report](Images/exception_report.png)
-
-### 3. Sense-Checked the AI Results
-
-Instead of automatically accepting the AI results, I reviewed selected flags and compared the e-trading values with the internal system values.
-
-I looked at whether the issue category made sense, why the difference could matter to the business, and what should happen next.
-
-This was especially important for territory differences. For example, values such as **US vs. North America** may represent different ways of categorizing a location instead of an actual data error. These cases would need human review before making a change.
-
-### 4. Summarized the Findings
-
-Premium mismatches were the most common issue, followed by deductible / excess issues and status mismatches.
-
-Some differences could affect financial reporting, underwriting information, documentation, or workflow tracking. However, the review also showed why AI results should be checked by a person instead of assuming every flagged difference is incorrect.
+### Data Quality Review
 
 ![Data Quality Review](Images/data_quality_review.png)
 
-### 5. Recommended a Process Improvement
+### AI Exception Report
 
-In the second part of the simulation, I reviewed different ways Northbridge could reduce future data quality issues.
+![AI Exception Report](Images/exception_report.png)
 
-The options included:
+## Task 2: Business Process Improvement
 
-- Targeted internal checks
-- Third-party support
-- Technology-led improvements
+After reviewing the data quality findings, I evaluated different ways Northbridge could reduce similar issues in the future.
 
-I recommended a phased approach. In the short term, the company could focus manual checks on higher-risk fields. Over time, validation rules, automated exception reporting, and better system integration could help prevent recurring issues while still keeping human review for unclear or higher-risk cases.
+The options included targeted internal checks, third-party support, and technology-led improvements.
 
-## Skills Practiced
+I recommended a phased approach where targeted checks are used for higher-risk fields in the short term while the company explores validation rules, automated exception reporting, and better system integration for the longer term. Human review would still be important for unclear or higher-risk exceptions.
 
-- Excel data analysis
-- Data quality management
-- Data reconciliation
-- Data analysis
-- Attention to detail
-- AI-assisted analysis
-- Process analysis
-- SWOT analysis
-- Business communication
-- Stakeholder awareness
+## Skills Demonstrated
 
-## Key Takeaway
+- Data Analysis
+- Microsoft Excel
+- Data Quality Management
+- AI-Assisted Analysis
+- Process Analysis
+- SWOT Analysis
+- Attention to Detail
+- Business Communication
+- Stakeholder Awareness
+- Critical Thinking
 
-This project helped me understand that finding a difference in data does not always mean there is an error. AI can make it easier to find possible issues across many records, but human review is still important for understanding the context and deciding what action should be taken.
+## Workbook
+
+[View Excel Workbook](Workbook/Arlee_Antillon_Task_1_AI_Assisted_Data_Quality_Review.xlsx)
 
 ## Certificate
 
-I completed the **London Insurance Life Operations Analyst Job Simulation on Forage** on September 25, 2026.
-
-[View Certificate](Certificate/Forage%20Operations%20Analyst%20Simulation%20Certificate.pdf)
+[View London Insurance Life Operations Analyst Job Simulation Certificate](Certificate/Forage%20Operations%20Analyst%20Simulation%20Certificate.pdf)
